@@ -1,0 +1,33 @@
+[submodule "userService"]
+	path = userService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Service%20User
+[submodule "orderService"]
+	path = orderService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Service%20Order
+[submodule "restaurantService"]
+	path = restaurantService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Service%20Restaurant
+[submodule "ticketService"]
+	path = ticketService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Service%20Ticket
+[submodule "reviewService"]
+	path = reviewService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEAT%20Service%20Review
+[submodule "reverseProxy"]
+	path = reverseProxy
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Reverse%20Proxy
+[submodule "authService"]
+	path = authService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Service%20Authentication
+[submodule "logService"]
+	path = logService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Service%20Log
+[submodule "monitoring-service"]
+	path = monitoringService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Service%20Monitoring
+[submodule "websocketService"]
+	path = websocketService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Service%20Websocket
+[submodule "statService"]
+	path = statService
+	url = https://VEat@dev.azure.com/VEat/VEat/_git/VEat%20Service%20Statistic
